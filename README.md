@@ -1,10 +1,11 @@
 <div align="center">
 
-# 🧒 KidLearn — Language Learning
+# 🧒 KidLearn
 
-**Fun, kid-friendly language learning — interactive lessons, audio, and playful practice.**
+**Playful language learning for kids — lessons, audio, and games.**
 
-[![Download on the App Store](https://img.shields.io/badge/Download-App%20Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/app/id6759905361](https://apps.apple.com/app/id6759905361)
+[![Download on the App Store](https://img.shields.io/badge/Download-App%20Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/app/id6759905361)
+[![Platform](https://img.shields.io/badge/platform-iOS-black?logo=apple)](https://luminadevapps.com)
 [![Website](https://img.shields.io/badge/website-luminadevapps.com-1575F9)](https://luminadevapps.com)
 
 Made by [**Lumina Dev Apps**](https://luminadevapps.com) · Oshawa, Ontario, Canada
@@ -15,11 +16,18 @@ Made by [**Lumina Dev Apps**](https://luminadevapps.com) · Oshawa, Ontario, Can
 
 ## Overview
 
-Fun, kid-friendly language learning — interactive lessons, audio, and playful practice.
+Playful language learning for kids — lessons, audio, and games.
+
+## ✨ Features
+
+- Interactive lessons
+- Audio pronunciation
+- Playful games
+- Kid-friendly design
 
 ## 📲 Download
 
-[Download on the App Store](https://apps.apple.com/app/id6759905361](https://apps.apple.com/app/id6759905361) — per-country links below.
+[Download on the App Store](https://apps.apple.com/app/id6759905361) — per-country links below.
 
 ## 💬 Support
 
